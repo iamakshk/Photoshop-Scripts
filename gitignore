@@ -1,0 +1,35 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Node / npm #
+##############
+node_modules/
+npm-debug.log
+
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Photoshop #
+#############
+*.psb
+*.tmp
+
+# VS Code #
+###########
+.vscode/
+
+# Build / dist #
+################
+dist/
+build/
